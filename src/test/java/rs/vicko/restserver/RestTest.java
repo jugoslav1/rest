@@ -24,7 +24,7 @@ public class RestTest {
 		server = Main.startServer();
 		// create the client
 		Client c = ClientBuilder.newClient();
-               // cisto da probam promene hvala sto pomazes kumasine
+               // cisto da probam promene hvala sto pomazes kumasineE
 		// uncomment the following line if you want to enable
 		// support for JSON in the client (you also have to uncomment
 		// dependency on jersey-media-json module in pom.xml and
